@@ -1,4 +1,4 @@
-# Synote Connect Panopto Input
+# Synote Connect Blackboard Output
 
  **THIS MODULE IS NOT CURRENTLY TESTED**
 
